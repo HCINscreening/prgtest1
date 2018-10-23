@@ -1,5 +1,5 @@
-Create an algorithm in Java, Python, PHP, JS or shell script that creates 90 persons. 
-Each person should be randomly given a name and an integer ID (from 1 to 90). 
+Create an algorithm in Java or JS that creates and prints out 150 persons. 
+Each person should be randomly given a name and an integer ID (from 1 to 150). 
 Name should be randomly composed of given name and surname. Please use these lists:
 
 Name        Surname
@@ -25,8 +25,10 @@ example:
 ...
 
 BONUS #1:
+Want to impress us? Write clean and humanly readable code that can be easily inspected by other developers. 
 
 BONUS #2:
+Want to impress us some more? Make sure every famous programmer from the list gets a loan ("Loan already provided").
 
 BONUS #3:
-
+Want to impress us beyond our imagination? Write two unit tests complementing the code. 
