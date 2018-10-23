@@ -1,17 +1,31 @@
-Create an algorithm that creates 150 persons. Each person should be randomly given a name and ID (from 1 to 150). 
-Name should be composed of given name and surname. Please use these lists:
+Create an algorithm that creates 90 persons. Each person should be randomly given a name and ID (from 1 to 150). 
+Name should be randomly composed of given name and surname. Please use these lists:
 
 Name        Surname
+-----       ---------
 Harry       Lovelace
 Ada         Doe
 Elon        Potter
 Jane        Musk
 
+For ID divisible by 3 the algorithm should print out "Eligible for loan". 
+For ID divisible by 5 it should print out "Loan pending". 
+For ID divisible by both 5 and 3 it should print out "Loan already provided".
+For all other IDs it should print out "no data".
 
+Output structure on each row should be following:
+$ID$ - $GIVEN_NAME$ $SURNAME$ - $PRINTOUT_STATEMENT
 
+example:
+...
+20 - Harry Lovelace - Loan pending
+21 - Jane Musk - Eligible for loan 
+22 - Ada Doe - no data
+...
 
+BONUS #1:
 
+BONUS #2:
 
+BONUS #3:
 
-assigns number id from 1 to 150 to each of them and prints the id out.
-For every multiple of three it should print out 
