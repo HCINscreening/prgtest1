@@ -1,4 +1,5 @@
-Create an algorithm that creates 90 persons. Each person should be randomly given a name and ID (from 1 to 150). 
+Create an algorithm in Java, Python, PHP, JS or shell script that creates 90 persons. 
+Each person should be randomly given a name and an integer ID (from 1 to 90). 
 Name should be randomly composed of given name and surname. Please use these lists:
 
 Name        Surname
