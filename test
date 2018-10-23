@@ -1,0 +1,17 @@
+Create an algorithm that creates 150 persons. Each person should be randomly given a name and ID (from 1 to 150). 
+Name should be composed of given name and surname. Please use these lists:
+
+Name        Surname
+Harry       Lovelace
+Ada         Doe
+Elon        Potter
+Jane        Musk
+
+
+
+
+
+
+
+assigns number id from 1 to 150 to each of them and prints the id out.
+For every multiple of three it should print out 
