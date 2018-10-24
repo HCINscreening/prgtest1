@@ -9,9 +9,9 @@ Ada         Doe
 Elon        Potter
 Jane        Musk
 
-For ID divisible by 3 the algorithm should print out "Eligible for loan". 
-For ID divisible by 5 it should print out "Loan pending". 
-For ID divisible by both 5 and 3 it should print out "Loan already provided".
+For ID divisible by 3 the algorithm should print out "LOAN". 
+For ID divisible by 5 it should print out "Pending". 
+For ID divisible by both 5 and 3 it should print out "Loan Pending".
 For all other IDs it should print out "no data".
 
 Output structure on each row should be following:
